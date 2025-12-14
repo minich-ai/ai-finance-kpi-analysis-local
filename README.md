@@ -1,7 +1,7 @@
 ## AI Finance KPI Analysis
 
 **Purpose:**  
-Demonstrates a finance-focused KPI analysis workflow suitable for executive decision support, dashboards, and AI-powered analytics.
+Demonstrates a finance-focused KPI analysis workflow suitable for executive decision support, dashboards, and AI-powered analytics. This repository is a demonstration of a small, end‑to‑end AI-assisted workflow for analyzing financial KPIs.
 
 **Status:**  
 Prototype / demonstration (not production-hardened).
