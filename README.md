@@ -60,6 +60,11 @@ When adapting this project for another company, you would typically replace thes
 
 ---
 
+## Security & Data Note
+- This repository contains only publicly available or synthetic data and no credentials, secrets, or personal information.
+
+---
+
 ## Repository Structure
 
 - `src/`  
