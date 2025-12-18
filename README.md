@@ -6,6 +6,10 @@ Demonstrates a finance-focused KPI analysis workflow suitable for executive deci
 **Status:**  
 Prototype / demonstration (not production-hardened).
 
+**Demo:**
+This repository is intended for local Python execution.
+A Streamlit-based interactive demo is available in a separate repo.
+
 **Tools:**  
 Python, pandas, matplotlib, LLM-assisted development (Cursor).
 
